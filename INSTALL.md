@@ -32,6 +32,7 @@ wget -qO- https://raw.githubusercontent.com/okhick/omakub/claude/reconfigure-ubu
 ### Terminal Tools
 - zsh + Oh My Zsh (robbyrussell theme)
 - GitHub CLI
+- Claude Code CLI
 - fzf, ripgrep, bat, eza, zoxide, fd-find
 - Mise (Node.js version manager)
 - Build tools (build-essential, pkg-config, etc.)
